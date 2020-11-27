@@ -1,2 +1,3 @@
-# jump-search-in-python
-Accompanying code for this blog post: https://stackabuse.com/jump-search-in-python/
+# search-algorithms
+
+A repo of search algorithsm that were implemented in StackAbuse blog posts
